@@ -53,7 +53,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>org.openshift.quickstarts.undertow.servlet.ServletServer</mainClass>
+                                    <mainClass>com.prueba.main.ServletPrueba</mainClass>
                                 </manifest>
                             </archive>
                         </configuration>
